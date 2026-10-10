@@ -2,6 +2,23 @@
 
 A local-only debt and bill reminder app built with Flutter for TR Clothings. It keeps track of what you owe and when it's due, and reminds you before each payment. All data stays on the device: no account, no server, no sync.
 
+## Screenshots
+
+> These are renders of the app's UI design mockups, so the sample data is illustrative.
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/dashboard.png" width="240" alt="Dashboard"><br><sub>Dashboard</sub></td>
+    <td align="center"><img src="docs/screenshots/notifications.png" width="240" alt="Notifications"><br><sub>Notifications</sub></td>
+    <td align="center"><img src="docs/screenshots/push-notification.png" width="240" alt="Push notification"><br><sub>Reminder notification</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/settings.png" width="240" alt="Settings"><br><sub>Settings</sub></td>
+    <td align="center"><img src="docs/screenshots/price-code-setup.png" width="240" alt="Price code setup"><br><sub>Price code setup</sub></td>
+    <td align="center"><img src="docs/screenshots/price-code-decoder.png" width="240" alt="Price code decoder"><br><sub>Price code decoder</sub></td>
+  </tr>
+</table>
+
 ## Features
 
 - **One-time debts:** record a single payment with an amount and due date.
